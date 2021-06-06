@@ -2,6 +2,11 @@ package org.example;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+/*
+ *  UCF COP3330 Summer 2021 Exercise 13 Solution
+ *  Copyright 2021 Drake Scott
+ */
+
 public class compound {
     public static double compInt(double P, double r, int t, int n){
         double base = (1 + (r / n));
